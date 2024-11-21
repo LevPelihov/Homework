@@ -12,4 +12,4 @@ function generateShape(integer){
    
    return res;
 }
-console.log(generateShape(6));
+console.log(generateShape(7));
